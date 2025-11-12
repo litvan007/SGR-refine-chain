@@ -15,4 +15,3 @@ pip install sgr-refine-chain
 ```
 
 [![PyPI](https://img.shields.io/pypi/v/sgr-refine-chain)](https://pypi.org/project/sgr-refine-chain/)
-[![Downloads](https://static.pepy.tech/personalized-badge/sgr-refine-chain?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/sgr-refine-chain)
