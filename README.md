@@ -1,6 +1,6 @@
 # 🧠 SGR Refine Agent for LangGraph
 
-**SGRRefineAgent** is a universal implementation of the **Structured-Guided-Refinement (SGR)** pattern  
+**SGRRefineAgent** is a universal implementation of the **Structured-Guided-Reasoning (SGR)** pattern  
 for handling large contexts and producing structured outputs in **LangGraph**.
 
 It allows iterative refinement of structured answers over multiple document chunks —  
