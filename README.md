@@ -13,5 +13,4 @@ essentially giving you **infinite context with schema consistency**.
 ```bash
 pip install sgr-refine-chain
 ```
-
 [![PyPI](https://img.shields.io/pypi/v/sgr-refine-chain)](https://pypi.org/project/sgr-refine-chain/)
